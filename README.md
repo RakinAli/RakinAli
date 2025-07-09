@@ -4,8 +4,6 @@
   
   ## 🤖 Machine Learning Engineer | 💻 Full-Stack Developer
   
-  ### Currently building innovative solutions at **Vetnio** 🏢
-  
   *Passionate about coding, data engineering, and applying ML models to solve real-world problems*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakinali)
@@ -80,6 +78,8 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakinAli&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&langs_count=8)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakinAli&theme=radical&hide_border=true&count_private=true)
+  
+  <sub>*GitHub stats reflect public repositories only. Extensive Next.js/TypeScript development at Vetnio and other private organizations not included in public metrics.*</sub>
   
 </div>
 
