@@ -103,13 +103,7 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
 - ☁️ **Cloud Solutions**: Architecting and deploying solutions on AWS and Vercel
 - 📈 **Model Deployment**: Implementing MLOps practices for production-ready ML systems
 
----
 
-## 🎯 Current Focus
-
-At **Vetnio**, I'm working on cutting-edge projects that combine machine learning with full-stack development to create innovative solutions in the veterinary technology space.
-
----
 
 <div align="center">
   
