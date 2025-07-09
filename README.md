@@ -23,6 +23,16 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
 
 ---
 
+## 🏢 Professional Contributions & Activity
+
+### 📈 Live GitHub Contribution Graph
+![GitHub Contribution Graph](https://ghchart.rshah.org/RakinAli)
+
+### 📊 Detailed Activity Stats
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakinAli&theme=github-compact&hide_border=true)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 🧠 Machine Learning & Data Science
@@ -73,7 +83,7 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
 
 <div align="center">
   
-  ![Rakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakinAli&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_owner=true)
+  ![Rakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakinAli&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakinAli&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&langs_count=8)
   
@@ -98,12 +108,6 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
 ## 🎯 Current Focus
 
 At **Vetnio**, I'm working on cutting-edge projects that combine machine learning with full-stack development to create innovative solutions in the veterinary technology space.
-
----
-
-## 📈 Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakinAli&theme=github-compact&hide_border=true)
 
 ---
 
