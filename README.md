@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Rakin Ali
+# Hi there! 
 
 <div align="center">
   
@@ -9,7 +9,6 @@
   *Passionate about coding, data engineering, and applying ML models to solve real-world problems*
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakinali)
-  [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rakinali00@gmail.com.com)
   
 </div>
 
@@ -76,11 +75,11 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
 
 <div align="center">
   
-  ![Rakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakinAli&show_icons=true&theme=radical&hide_border=true&count_private=true)
+  ![Rakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakinAli&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&show_owner=true)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakinAli&layout=compact&theme=radical&hide_border=true&count_private=true)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakinAli&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&langs_count=8)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakinAli&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakinAli&theme=radical&hide_border=true&count_private=true)
   
 </div>
 
@@ -120,10 +119,3 @@ At **Vetnio**, I'm working on cutting-edge projects that combine machine learnin
   
 </div>
 
----
-
-<div align="center">
-  
-  **"Building the future, one line of code at a time"** 🚀
-  
-</div>
