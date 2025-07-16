@@ -4,7 +4,7 @@
   
   ## 🤖 Machine Learning Engineer | 💻 Full-Stack Developer
   
-  *Passionate about coding, data engineering, and applying ML models to solve real-world problems*
+  Passionate about coding, data engineering, and applying ML models. 
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakinali)
   
