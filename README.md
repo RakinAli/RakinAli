@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **Machine Learning Engineer** with strong **full-stack development skills**, combining the best of both worlds to create end-to-end solutions. I thrive on building scalable applications that make a difference.
+I'm a **Machine Learning Engineer** with strong **full-stack development skills**, combining the best of both worlds to create end-to-end solutions. I thrive on building scalable applications that make a difference. **Always shipping**
 
 - 🔭 Currently working at **Vetnio**
 - 🌱 Passionate about **Data Engineering** and **ML Model Deployment**
@@ -102,7 +102,6 @@ I'm a **Machine Learning Engineer** with strong **full-stack development skills*
 - 🌐 **Full-Stack Development**: Creating scalable web applications with modern frameworks
 - ☁️ **Cloud Solutions**: Architecting and deploying solutions on AWS and Vercel
 - 📈 **Model Deployment**: Implementing MLOps practices for production-ready ML systems
-
 
 
 <div align="center">
