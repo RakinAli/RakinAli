@@ -6,7 +6,7 @@
   
   Passionate about coding, data engineering, and applying ML models. 
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakinali)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakin-ali)
   
 </div>
 
