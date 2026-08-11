@@ -1,118 +1,56 @@
-# Hi there! 
+## Rakin Ali
 
-<div align="center">
-  
-  ## 🤖 Machine Learning Engineer | 💻 Full-Stack Developer
-  
-  Passionate about coding, data engineering, and applying ML models. 
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rakin-ali)
-  
-</div>
+Building [Vetnio](https://vetnio.com) — AI clinical documentation for veterinarians. Stockholm.
 
----
+I work end to end — product, backend, infrastructure and the model layer. Day to day that means
+TypeScript and Python, AWS, Stripe, database schema design, and LLM systems in production.
 
-## 🚀 About Me
-
-I'm a **Machine Learning Engineer** with strong **full-stack development skills**, combining the best of both worlds to create end-to-end solutions. I thrive on building scalable applications that make a difference. **Always shipping**
-
-- 🔭 Currently working at **Vetnio**
-- 🌱 Passionate about **Data Engineering** and **ML Model Deployment**
-- 💡 Love building **Full-Stack Applications** with intelligent features
-- 🎯 Always exploring new technologies and methodologies
+Before Vetnio: MSc in Machine Learning at KTH. My thesis trained **sparse autoencoders** on
+GPT-2 MLP activations to pull dense representations apart into sparse, interpretable features —
+sweeping latent width from 512 to 4096 against the L1 penalty, then reading out top-activating
+tokens per latent to see what each one had actually learned.
 
 ---
 
-## 🏢 Professional Contributions & Activity
+### What I spend time on
 
-### 📈 Live GitHub Contribution Graph
-![GitHub Contribution Graph](https://ghchart.rshah.org/RakinAli)
+**LLM systems in production.** Structured generation, speech-to-text, and the harnesses that
+keep model output trustworthy enough to put in front of professionals.
 
-### 📊 Detailed Activity Stats
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RakinAli&theme=github-compact&hide_border=true)
+**Speech.** Speaker diarization, ASR, speech and speaker recognition — the thread most of the
+public work below runs along.
 
----
-
-## 🛠️ Tech Stack
-
-### 🧠 Machine Learning & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### 💻 Full-Stack Development
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Interpretability.** Sparse autoencoders and feature decomposition. The research question I
+keep coming back to.
 
 ---
 
-## 📊 GitHub Stats
+### Stack
 
-<div align="center">
-  
-  ![Rakin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RakinAli&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RakinAli&layout=compact&theme=radical&hide_border=true&count_private=true&include_all_commits=true&langs_count=8)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RakinAli&theme=radical&hide_border=true&count_private=true)
-  
-  <sub>*GitHub stats reflect public repositories only. Extensive Next.js/TypeScript development at Vetnio and other private organizations not included in public metrics.*</sub>
-  
-</div>
+- **Daily** — TypeScript · Python · React · Node · PostgreSQL · AWS
+- **Modelling** — PyTorch · NumPy · Hugging Face · Weights & Biases
+- **Also fluent in** — Java · C++ · SQL · Docker · GitHub Actions
 
 ---
 
-## 💼 What I Do
+### Public repositories
 
-- 🔬 **Machine Learning**: Developing and deploying ML models for various domains
-- 🏗️ **Data Engineering**: Building robust data pipelines and ETL processes
-- 🌐 **Full-Stack Development**: Creating scalable web applications with modern frameworks
-- ☁️ **Cloud Solutions**: Architecting and deploying solutions on AWS and Vercel
-- 📈 **Model Deployment**: Implementing MLOps practices for production-ready ML systems
+Day-to-day work at Vetnio is private. What's public is the machine learning and speech work
+from KTH — written from scratch, not wired together from libraries.
 
+| Repo | What it is |
+|---|---|
+| [Deep-Learning](https://github.com/RakinAli/Deep-Learning) | Neural networks from scratch in NumPy. One-layer → k-layer with batch normalization, a char-level RNN trained with AdaGrad, and a VGG/ResNet CIFAR-10 project past 90%. Gradients hand-derived, no autograd. |
+| [Diarization---Project](https://github.com/RakinAli/Diarization---Project) | Speaker diarization on VoxData. Benchmarked state-of-the-art embedding models against each other, then built a custom diarization model and compared clustering strategies. |
+| [Speaker-and-Speech](https://github.com/RakinAli/Speaker-and-Speech) | DT2119 Speech and Speaker Recognition. MFCC feature extraction, HMM alignment and concatenation, and phoneme recognition. |
+| [NLP-Course](https://github.com/RakinAli/NLP-Course) | Language engineering, implemented rather than imported: CKY parsing, transition-based dependency parsing, n-gram language models, NER, random indexing, word2vec/GloVe, char-level LMs and neural machine translation. |
+| [Computer-Vision-course](https://github.com/RakinAli/Computer-Vision-course) | Image analysis and computer vision. Fourier analysis and Gaussian filtering, edge detection, and segmentation via k-means, mean-shift and graph cuts. |
+| [Text-summarizer](https://github.com/RakinAli/Text-summarizer) | Abstractive summarization on the wikiHow corpus — T5 fine-tuning, evaluation and an interactive demo. |
+| [AI-course](https://github.com/RakinAli/AI-course) | Classical AI: search and heuristics, logic-based knowledge representation, HMMs and Bayesian inference, planning and decision theory. |
+| [TSP-Problem](https://github.com/RakinAli/TSP-Problem) | Traveling salesman heuristics in C++ under a hard runtime budget on Kattis — greedy construction plus 2-opt local search. |
 
-<div align="center">
-  
-  ### 💬 Let's Connect!
-  
-  I'm always open to discussing new opportunities, collaborating on interesting projects, or just chatting about technology!
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rakinali)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rakinali@gmail.com.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=RakinAli&style=for-the-badge&color=brightgreen)
-  
-</div>
+---
 
+### Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/rakin-ali/) · [rakin@vetnio.com](mailto:rakin@vetnio.com)
