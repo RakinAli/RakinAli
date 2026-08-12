@@ -29,7 +29,7 @@ keep coming back to.
 
 - **Daily** — TypeScript · Python · React · Node · PostgreSQL · AWS
 - **Modelling** — PyTorch · NumPy · Hugging Face · Weights & Biases
-- **Also fluent in** — Java · C++ · SQL · Docker · GitHub Actions
+- **Also fluent in** — Java · C++ · SQL · Docker · 
 
 ---
 
