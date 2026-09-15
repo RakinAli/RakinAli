@@ -27,7 +27,7 @@ keep coming back to.
 
 ### Stack
 
-- **Daily** — TypeScript · Python · React · Node · PostgreSQL · AWS
+- **Daily** — TypeScript · Python · React · Node · PostgreSQL · AWS· BigQuery
 - **Modelling** — PyTorch · NumPy · Hugging Face · Weights & Biases
 - **Also fluent in** — Java · C++ · SQL · Docker · 
 
