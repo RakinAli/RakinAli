@@ -20,9 +20,6 @@ keep model output trustworthy enough to put in front of professionals.
 **Speech.** Speaker diarization, ASR, speech and speaker recognition — the thread most of the
 public work below runs along.
 
-**Interpretability.** Sparse autoencoders and feature decomposition. The research question I
-keep coming back to.
-
 ---
 
 ### Stack
